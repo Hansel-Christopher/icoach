@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "562652308329",
+    "firebase_url": "https://icoach-eb944.firebaseio.com",
+    "project_id": "icoach-eb944",
+    "storage_bucket": "icoach-eb944.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:562652308329:android:cd6dac0955c7cdf3",
+        "android_client_info": {
+          "package_name": "com.example.hansel_christopher.icoachphone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "562652308329-1ir3lkcf8sibbaj2e5pgaqc80lah1fjb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hansel_christopher.icoachphone",
+            "certificate_hash": "7c0aa475ebef5491d7ff236b0821d71ebc24fcda"
+          }
+        },
+        {
+          "client_id": "562652308329-kej6gj4gu3g9feic941tlrq3losr52t1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcjupORB6hf2s9DtmRlXB0L8L9bZQ5vh8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "562652308329-kej6gj4gu3g9feic941tlrq3losr52t1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
